@@ -1,0 +1,354 @@
+{
+"셀프 어텐션": {
+"en": "self-attention",
+"zh": "自注意力",
+"ja": "セルフアテンション",
+"ru": "самовнимание",
+"uz": "self-attention",
+"vi": "tự chú ý"
+},
+"어텐션": {
+"en": "attention",
+"zh": "注意力",
+"ja": "アテンション",
+"ru": "внимание",
+"uz": "attention",
+"vi": "cơ chế chú ý"
+},
+"질의": {
+"en": "query",
+"zh": "查询",
+"ja": "クエリ",
+"ru": "запрос",
+"uz": "soʻrov (query)",
+"vi": "truy vấn"
+},
+"소프트맥스": {
+"en": "softmax",
+"zh": "softmax",
+"ja": "ソフトマックス",
+"ru": "софтмакс",
+"uz": "softmax",
+"vi": "softmax"
+},
+"내적": {
+"en": "dot product",
+"zh": "点积",
+"ja": "内積",
+"ru": "скалярное произведение",
+"uz": "skalyar koʻpaytma",
+"vi": "tích vô hướng"
+},
+"여러 머리": {
+"en": "multiple heads",
+"zh": "多头",
+"ja": "マルチヘッド",
+"ru": "несколько голов",
+"uz": "bir nechta bosh",
+"vi": "nhiều đầu"
+},
+"위치 인코딩": {
+"en": "positional encoding",
+"zh": "位置编码",
+"ja": "位置エンコーディング",
+"ru": "позиционное кодирование",
+"uz": "pozitsion kodlash",
+"vi": "mã hóa vị trí"
+},
+"임베딩": {
+"en": "embedding",
+"zh": "嵌入",
+"ja": "埋め込み",
+"ru": "эмбеддинг",
+"uz": "embedding",
+"vi": "embedding"
+},
+"병렬화": {
+"en": "parallelization",
+"zh": "并行化",
+"ja": "並列化",
+"ru": "распараллеливание",
+"uz": "parallellashtirish",
+"vi": "song song hóa"
+},
+"순환 신경망": {
+"en": "recurrent neural network",
+"zh": "循环神经网络",
+"ja": "再帰型ニューラルネットワーク",
+"ru": "рекуррентная нейронная сеть",
+"uz": "rekurrent neyron tarmoq",
+"vi": "mạng nơ-ron hồi quy"
+},
+"합성곱": {
+"en": "convolution",
+"zh": "卷积",
+"ja": "畳み込み",
+"ru": "свёртка",
+"uz": "konvolyutsiya",
+"vi": "tích chập"
+},
+"앙상블": {
+"en": "ensemble",
+"zh": "集成",
+"ja": "アンサンブル",
+"ru": "ансамбль",
+"uz": "ansambl",
+"vi": "tổ hợp"
+},
+"개발 세트": {
+"en": "dev set",
+"zh": "开发集",
+"ja": "開発セット",
+"ru": "dev-набор",
+"uz": "dev-toʻplam",
+"vi": "tập phát triển"
+},
+"자기회귀": {
+"en": "autoregressive",
+"zh": "自回归",
+"ja": "自己回帰",
+"ru": "авторегрессия",
+"uz": "avtoregressiya",
+"vi": "tự hồi quy"
+},
+"트랜스포머": {
+"en": "Transformer",
+"zh": "Transformer",
+"ja": "Transformer",
+"ru": "трансформер",
+"uz": "Transformer",
+"vi": "Transformer"
+},
+"과적합": {
+"en": "overfitting",
+"zh": "过拟合",
+"ja": "過学習",
+"ru": "переобучение",
+"uz": "haddan tashqari moslashish (overfitting)",
+"vi": "quá khớp"
+},
+"일반화": {
+"en": "generalization",
+"zh": "泛化",
+"ja": "汎化",
+"ru": "обобщение",
+"uz": "umumlashtirish",
+"vi": "khái quát hóa"
+},
+"가중치": {
+"en": "weight",
+"zh": "权重",
+"ja": "重み",
+"ru": "вес",
+"uz": "vazn",
+"vi": "trọng số"
+},
+"편향": {
+"en": "bias",
+"zh": "偏置",
+"ja": "バイアス",
+"ru": "смещение",
+"uz": "siljish (bias)",
+"vi": "độ lệch"
+},
+"학습률": {
+"en": "learning rate",
+"zh": "学习率",
+"ja": "学習率",
+"ru": "скорость обучения",
+"uz": "oʻrganish tezligi",
+"vi": "tốc độ học"
+},
+"손실": {
+"en": "loss",
+"zh": "损失",
+"ja": "損失",
+"ru": "функция потерь",
+"uz": "yoʻqotish",
+"vi": "hàm mất mát"
+},
+"정확도": {
+"en": "accuracy",
+"zh": "准确率",
+"ja": "正解率",
+"ru": "точность",
+"uz": "aniqlik",
+"vi": "độ chính xác"
+},
+"훈련 데이터": {
+"en": "training data",
+"zh": "训练数据",
+"ja": "訓練データ",
+"ru": "обучающие данные",
+"uz": "oʻqitish maʼlumotlari",
+"vi": "dữ liệu huấn luyện"
+},
+"검증 데이터": {
+"en": "validation data",
+"zh": "验证数据",
+"ja": "検証データ",
+"ru": "валидационные данные",
+"uz": "tekshiruv maʼlumotlari",
+"vi": "dữ liệu kiểm định"
+},
+"시험 데이터": {
+"en": "test data",
+"zh": "测试数据",
+"ja": "テストデータ",
+"ru": "тестовые данные",
+"uz": "test maʼlumotlari",
+"vi": "dữ liệu kiểm tra"
+},
+"활성화 함수": {
+"en": "activation function",
+"zh": "激活函数",
+"ja": "活性化関数",
+"ru": "функция активации",
+"uz": "faollashtirish funksiyasi",
+"vi": "hàm kích hoạt"
+},
+"은닉층": {
+"en": "hidden layer",
+"zh": "隐藏层",
+"ja": "隠れ層",
+"ru": "скрытый слой",
+"uz": "yashirin qatlam",
+"vi": "lớp ẩn"
+},
+"신경망": {
+"en": "neural network",
+"zh": "神经网络",
+"ja": "ニューラルネットワーク",
+"ru": "нейронная сеть",
+"uz": "neyron tarmoq",
+"vi": "mạng nơ-ron"
+},
+"경사하강법": {
+"en": "gradient descent",
+"zh": "梯度下降",
+"ja": "勾配降下法",
+"ru": "градиентный спуск",
+"uz": "gradiyent tushish",
+"vi": "hạ gradient"
+},
+"미니배치": {
+"en": "mini-batch",
+"zh": "小批量",
+"ja": "ミニバッチ",
+"ru": "мини-батч",
+"uz": "mini-batch",
+"vi": "mini-batch"
+},
+"드롭아웃": {
+"en": "dropout",
+"zh": "dropout",
+"ja": "ドロップアウト",
+"ru": "дропаут",
+"uz": "dropout",
+"vi": "dropout"
+},
+"정규화": {
+"en": "regularization",
+"zh": "正则化",
+"ja": "正則化",
+"ru": "регуляризация",
+"uz": "regulyarizatsiya",
+"vi": "chính quy hóa"
+},
+"역전파": {
+"en": "backpropagation",
+"zh": "反向传播",
+"ja": "誤差逆伝播法",
+"ru": "обратное распространение ошибки",
+"uz": "teskari tarqalish",
+"vi": "lan truyền ngược"
+},
+"퍼셉트론": {
+"en": "perceptron",
+"zh": "感知机",
+"ja": "パーセプトロン",
+"ru": "перцептрон",
+"uz": "perseptron",
+"vi": "perceptron"
+},
+"결정 경계": {
+"en": "decision boundary",
+"zh": "决策边界",
+"ja": "決定境界",
+"ru": "граница решений",
+"uz": "qaror chegarasi",
+"vi": "ranh giới quyết định"
+},
+"하이퍼파라미터": {
+"en": "hyperparameter",
+"zh": "超参数",
+"ja": "ハイパーパラメータ",
+"ru": "гиперпараметр",
+"uz": "giperparametr",
+"vi": "siêu tham số"
+},
+"데이터 누수": {
+"en": "data leakage",
+"zh": "数据泄漏",
+"ja": "データリーク",
+"ru": "утечка данных",
+"uz": "maʼlumot sizib chiqishi",
+"vi": "rò rỉ dữ liệu"
+},
+"강화학습": {
+"en": "reinforcement learning",
+"zh": "强化学习",
+"ja": "強化学習",
+"ru": "обучение с подкреплением",
+"uz": "mustahkamlovchi oʻrganish",
+"vi": "học tăng cường"
+},
+"지도학습": {
+"en": "supervised learning",
+"zh": "监督学习",
+"ja": "教師あり学習",
+"ru": "обучение с учителем",
+"uz": "nazoratli oʻrganish",
+"vi": "học có giám sát"
+},
+"비지도학습": {
+"en": "unsupervised learning",
+"zh": "无监督学习",
+"ja": "教師なし学習",
+"ru": "обучение без учителя",
+"uz": "nazoratsiz oʻrganish",
+"vi": "học không giám sát"
+},
+"생성 AI": {
+"en": "generative AI",
+"zh": "生成式 AI",
+"ja": "生成AI",
+"ru": "генеративный ИИ",
+"uz": "generativ AI",
+"vi": "AI tạo sinh"
+},
+"대형 언어 모델": {
+"en": "large language model",
+"zh": "大语言模型",
+"ja": "大規模言語モデル",
+"ru": "большая языковая модель",
+"uz": "katta til modeli",
+"vi": "mô hình ngôn ngữ lớn"
+},
+"토큰": {
+"en": "token",
+"zh": "词元",
+"ja": "トークン",
+"ru": "токен",
+"uz": "token",
+"vi": "token"
+},
+"파인튜닝": {
+"en": "fine-tuning",
+"zh": "微调",
+"ja": "ファインチューニング",
+"ru": "дообучение",
+"uz": "nozik sozlash (fine-tuning)",
+"vi": "tinh chỉnh"
+}
+}

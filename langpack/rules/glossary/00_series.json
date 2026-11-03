@@ -1,0 +1,322 @@
+{
+"AI 연구실 해설 대시보드": {
+"en": "AI Lab Explainer Dashboard",
+"zh": "AI 实验室解说仪表板",
+"ja": "AI研究室 解説ダッシュボード",
+"ru": "Панель-пояснение «AI-лаборатория»",
+"uz": "AI laboratoriyasi tushuntirish paneli",
+"vi": "Bảng giải thích Phòng thí nghiệm AI"
+},
+"AI 연구실 해설": {
+"en": "AI Lab Explainer",
+"zh": "AI 实验室解说",
+"ja": "AI研究室 解説",
+"ru": "Пояснения AI-лаборатории",
+"uz": "AI laboratoriyasi tushuntirishlari",
+"vi": "Giải thích Phòng thí nghiệm AI"
+},
+"박사": {
+"en": "Doctor",
+"zh": "博士",
+"ja": "博士",
+"ru": "Доктор",
+"uz": "Doktor",
+"vi": "Tiến sĩ"
+},
+"하루 (조수)": {
+"en": "Haru (assistant)",
+"zh": "Haru（助手）",
+"ja": "ハル（助手）",
+"ru": "Хару (ассистент)",
+"uz": "Haru (yordamchi)",
+"vi": "Haru (trợ lý)"
+},
+"초파리 연구원": {
+"en": "Fruit Fly Researcher",
+"zh": "果蝇研究员",
+"ja": "ショウジョウバエ研究員",
+"ru": "Исследователь-дрозофила",
+"uz": "Meva pashshasi tadqiqotchisi",
+"vi": "Nhà nghiên cứu Ruồi giấm"
+},
+"안상선": {
+"en": "Ahn Sangsun",
+"zh": "Ahn Sangsun",
+"ja": "Ahn Sangsun",
+"ru": "Ahn Sangsun",
+"uz": "Ahn Sangsun",
+"vi": "Ahn Sangsun"
+},
+"(주)M-Robo 대표": {
+"en": "CEO, M-Robo Inc.",
+"zh": "M-Robo 公司 CEO",
+"ja": "株式会社M-Robo 代表",
+"ru": "генеральный директор M-Robo",
+"uz": "M-Robo kompaniyasi rahbari",
+"vi": "Giám đốc điều hành M-Robo"
+},
+"일상으로 치면": {
+"en": "In everyday terms",
+"zh": "用日常来比喻",
+"ja": "日常でいえば",
+"ru": "В быту",
+"uz": "Kundalik hayotda",
+"vi": "Trong đời thường"
+},
+"모델에서는": {
+"en": "In the model",
+"zh": "在模型中",
+"ja": "モデルでは",
+"ru": "В модели",
+"uz": "Modelda",
+"vi": "Trong mô hình"
+},
+"대결": {
+"en": "Showdown",
+"zh": "对决",
+"ja": "対決",
+"ru": "Поединок",
+"uz": "Bellashuv",
+"vi": "Đối đầu"
+},
+"설명용 모형 · 실제 데이터 아님": {
+"en": "Illustrative model · not real data",
+"zh": "说明用模型 · 非真实数据",
+"ja": "説明用モデル・実データではない",
+"ru": "Учебная модель · не реальные данные",
+"uz": "Tushuntirish modeli · haqiqiy maʼlumot emas",
+"vi": "Mô hình minh họa · không phải dữ liệu thật"
+},
+"도식 · 결과의 방향만 표현": {
+"en": "Schematic · shows direction only",
+"zh": "示意图 · 仅表示方向",
+"ja": "図式・結果の方向のみ",
+"ru": "Схема · только направление",
+"uz": "Sxema · faqat yoʻnalishni koʻrsatadi",
+"vi": "Sơ đồ · chỉ thể hiện xu hướng"
+},
+"예시값": {
+"en": "Example values",
+"zh": "示例值",
+"ja": "例示値",
+"ru": "Примерные значения",
+"uz": "Misol qiymatlar",
+"vi": "Giá trị ví dụ"
+},
+"지식 색인": {
+"en": "Knowledge index",
+"zh": "知识索引",
+"ja": "知識索引",
+"ru": "Указатель знаний",
+"uz": "Bilimlar indeksi",
+"vi": "Chỉ mục tri thức"
+},
+"온톨로지·서지 꾸러미": {
+"en": "Ontology & bibliography package",
+"zh": "本体·文献包",
+"ja": "オントロジー・書誌パッケージ",
+"ru": "Пакет онтологии и библиографии",
+"uz": "Ontologiya va bibliografiya toʻplami",
+"vi": "Gói bản thể học · thư mục"
+},
+"모형 실험실": {
+"en": "Model lab",
+"zh": "模型实验室",
+"ja": "モデル実験室",
+"ru": "Модельная лаборатория",
+"uz": "Model laboratoriyasi",
+"vi": "Phòng thí nghiệm mô hình"
+},
+"조수": {
+"en": "assistant",
+"zh": "助手",
+"ja": "助手",
+"ru": "ассистент",
+"uz": "yordamchi",
+"vi": "trợ lý"
+},
+"초파리에서는": {
+"en": "In the fruit fly",
+"zh": "在果蝇中",
+"ja": "ショウジョウバエでは",
+"ru": "У дрозофилы",
+"uz": "Meva pashshasida",
+"vi": "Ở ruồi giấm"
+},
+"연구실에서는": {
+"en": "In the lab",
+"zh": "在实验室中",
+"ja": "研究室では",
+"ru": "В лаборатории",
+"uz": "Laboratoriyada",
+"vi": "Trong phòng thí nghiệm"
+},
+"장부로 보면": {
+"en": "In the ledger",
+"zh": "从账本来看",
+"ja": "帳簿で見ると",
+"ru": "По бухгалтерской книге",
+"uz": "Daftar boʻyicha",
+"vi": "Nhìn theo sổ sách"
+},
+"현장에서는": {
+"en": "On the shop floor",
+"zh": "在现场",
+"ja": "現場では",
+"ru": "На производстве",
+"uz": "Amaliyotda",
+"vi": "Ngoài hiện trường"
+},
+"신경망에서는": {
+"en": "In the neural network",
+"zh": "在神经网络中",
+"ja": "ニューラルネットワークでは",
+"ru": "В нейросети",
+"uz": "Neyron tarmoqda",
+"vi": "Trong mạng nơ-ron"
+},
+"생성 AI로 치면": {
+"en": "In generative AI terms",
+"zh": "放到生成式 AI 里",
+"ja": "生成AIでいえば",
+"ru": "Если перенести на генеративный ИИ",
+"uz": "Generativ AI nuqtai nazaridan",
+"vi": "Nếu nói theo AI tạo sinh"
+},
+"현장에 옮기면": {
+"en": "Taking it to the field",
+"zh": "搬到实际工作中",
+"ja": "現場に移すと",
+"ru": "Если перенести в практику",
+"uz": "Amaliyotga koʻchirsak",
+"vi": "Áp dụng vào thực tế"
+},
+"박사의 한 줄": {
+"en": "The Doctor's one-liner",
+"zh": "博士的一句话",
+"ja": "博士のひとこと",
+"ru": "Доктор в одной фразе",
+"uz": "Doktorning bir jumlasi",
+"vi": "Một câu của Tiến sĩ"
+},
+"결과 보기": {
+"en": "Show result",
+"zh": "查看结果",
+"ja": "結果を見る",
+"ru": "Показать результат",
+"uz": "Natijani koʻrish",
+"vi": "Xem kết quả"
+},
+"다시 닫기": {
+"en": "Close",
+"zh": "收起",
+"ja": "閉じる",
+"ru": "Свернуть",
+"uz": "Yopish",
+"vi": "Đóng lại"
+},
+"먼저 맞혀 보기": {
+"en": "Make a guess first",
+"zh": "先猜一猜",
+"ja": "先に予想する",
+"ru": "Сначала угадайте",
+"uz": "Avval taxmin qiling",
+"vi": "Đoán trước"
+},
+"개략 모형 · 실제 해부 데이터 아님": {
+"en": "Rough model · not real anatomy data",
+"zh": "概略模型 · 非真实解剖数据",
+"ja": "概略モデル・実際の解剖データではない",
+"ru": "Упрощённая модель · не анатомические данные",
+"uz": "Taxminiy model · haqiqiy anatomik maʼlumot emas",
+"vi": "Mô hình phác thảo · không phải dữ liệu giải phẫu thật"
+},
+"예시 좌표": {
+"en": "Example coordinates",
+"zh": "示例坐标",
+"ja": "例示座標",
+"ru": "Примерные координаты",
+"uz": "Misol koordinatalar",
+"vi": "Tọa độ ví dụ"
+},
+"단순화한 학습 규칙": {
+"en": "Simplified learning rule",
+"zh": "简化的学习规则",
+"ja": "単純化した学習ルール",
+"ru": "Упрощённое правило обучения",
+"uz": "Soddalashtirilgan oʻrganish qoidasi",
+"vi": "Quy tắc học đã đơn giản hóa"
+},
+"논문 수치": {
+"en": "Paper's numbers",
+"zh": "论文数值",
+"ja": "論文の数値",
+"ru": "Данные статьи",
+"uz": "Maqola raqamlari",
+"vi": "Số liệu của bài báo"
+},
+"확인 필요": {
+"en": "needs checking",
+"zh": "待核实",
+"ja": "要確認",
+"ru": "требует проверки",
+"uz": "tekshirish kerak",
+"vi": "cần kiểm tra"
+},
+"초파리 승": {
+"en": "Fruit Fly wins",
+"zh": "果蝇胜",
+"ja": "ショウジョウバエの勝ち",
+"ru": "Победила дрозофила",
+"uz": "Pashsha gʻolib",
+"vi": "Ruồi giấm thắng"
+},
+"Money-Robo 승": {
+"en": "Money-Robo wins",
+"zh": "Money-Robo 胜",
+"ja": "Money-Robo の勝ち",
+"ru": "Победил Money-Robo",
+"uz": "Money-Robo gʻolib",
+"vi": "Money-Robo thắng"
+},
+"이번 판은 나눠 갖는다": {
+"en": "This round is a draw",
+"zh": "这一局平分",
+"ja": "今回は引き分け",
+"ru": "Этот раунд — ничья",
+"uz": "Bu raund durang",
+"vi": "Ván này hòa"
+},
+"실격": {
+"en": "disqualified",
+"zh": "失格",
+"ja": "失格",
+"ru": "дисквалифицирован",
+"uz": "diskvalifikatsiya",
+"vi": "bị loại"
+},
+"조수(하루)": {
+"en": "the Assistant (Haru)",
+"zh": "助手（Haru）",
+"ja": "助手（ハル）",
+"ru": "ассистент (Хару)",
+"uz": "Yordamchi (Haru)",
+"vi": "Trợ lý (Haru)"
+},
+"조수 (하루)": {
+"en": "the Assistant (Haru)",
+"zh": "助手（Haru）",
+"ja": "助手（ハル）",
+"ru": "ассистент (Хару)",
+"uz": "Yordamchi (Haru)",
+"vi": "Trợ lý (Haru)"
+},
+"세나": {
+"en": "Sena",
+"zh": "Sena",
+"ja": "セナ",
+"ru": "Сена",
+"uz": "Sena",
+"vi": "Sena"
+}
+}

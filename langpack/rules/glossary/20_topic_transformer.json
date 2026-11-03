@@ -1,0 +1,122 @@
+{
+"트랜스포머 연구실": {
+"en": "Transformer Lab",
+"zh": "Transformer 实验室",
+"ja": "Transformer 研究室",
+"ru": "Лаборатория трансформера",
+"uz": "Transformer laboratoriyasi",
+"vi": "Phòng thí nghiệm Transformer"
+},
+"트랜스포머 — 형광펜만으로 번역하기": {
+"en": "Transformer — Translating with Only a Highlighter",
+"zh": "Transformer——只用荧光笔做翻译",
+"ja": "Transformer——蛍光ペンだけで翻訳する",
+"ru": "Трансформер — перевод одним маркером",
+"uz": "Transformer — faqat marker bilan tarjima",
+"vi": "Transformer — dịch chỉ bằng bút dạ quang"
+},
+"눈금 맞춘 형광펜": {
+"en": "calibrated highlighter",
+"zh": "校准荧光笔",
+"ja": "目盛り合わせ蛍光ペン",
+"ru": "откалиброванный маркер",
+"uz": "kalibrlangan marker",
+"vi": "bút dạ quang đã chỉnh thang"
+},
+"여러 색 형광펜": {
+"en": "multicolor highlighters",
+"zh": "多色荧光笔",
+"ja": "多色蛍光ペン",
+"ru": "разноцветные маркеры",
+"uz": "rang-barang markerlar",
+"vi": "bút dạ quang nhiều màu"
+},
+"형광펜": {
+"en": "highlighter",
+"zh": "荧光笔",
+"ja": "蛍光ペン",
+"ru": "маркер",
+"uz": "marker",
+"vi": "bút dạ quang"
+},
+"자리 물결표": {
+"en": "position wave stamp",
+"zh": "位置波纹章",
+"ja": "位置の波スタンプ",
+"ru": "волновая метка позиции",
+"uz": "pozitsiya toʻlqin tamgʻasi",
+"vi": "dấu sóng vị trí"
+},
+"앞만 보기 가림막": {
+"en": "no-peeking mask",
+"zh": "防偷看遮挡板",
+"ja": "先読み防止の目隠し",
+"ru": "маска «не подглядывать»",
+"uz": "oldindan koʻrmaslik pardasi",
+"vi": "tấm che chống nhìn trước"
+},
+"읽는 탑": {
+"en": "reading tower",
+"zh": "阅读塔",
+"ja": "読む塔",
+"ru": "башня чтения",
+"uz": "oʻqish minorasi",
+"vi": "tháp đọc"
+},
+"쓰는 탑": {
+"en": "writing tower",
+"zh": "书写塔",
+"ja": "書く塔",
+"ru": "башня письма",
+"uz": "yozish minorasi",
+"vi": "tháp viết"
+},
+"질문 카드·색인표·내용": {
+"en": "question card · index tag · content",
+"zh": "问题卡·索引标签·内容",
+"ja": "質問カード・索引票・中身",
+"ru": "карточка-вопрос · индексная метка · содержимое",
+"uz": "savol kartasi · indeks yorligʻi · mazmun",
+"vi": "thẻ câu hỏi · nhãn mục lục · nội dung"
+},
+"지름길": {
+"en": "shortcut",
+"zh": "捷径",
+"ja": "近道",
+"ru": "обходной путь",
+"uz": "qisqa yoʻl",
+"vi": "đường tắt"
+},
+"단어별 작은 신경망": {
+"en": "per-word mini network",
+"zh": "逐词小网络",
+"ja": "単語ごとの小さなネットワーク",
+"ru": "мини-сеть для каждого слова",
+"uz": "har bir soʻz uchun kichik tarmoq",
+"vi": "mạng nhỏ cho từng từ"
+},
+"번역 채점표": {
+"en": "translation scorecard",
+"zh": "翻译评分表",
+"ja": "翻訳採点表",
+"ru": "шкала оценки перевода",
+"uz": "tarjima baholash jadvali",
+"vi": "bảng chấm điểm dịch"
+},
+"기억 상자": {
+"en": "memory box",
+"zh": "记忆盒",
+"ja": "記憶ボックス",
+"ru": "ящик памяти",
+"uz": "xotira qutisi",
+"vi": "hộp ghi nhớ"
+},
+"★ 뒤 기호": {
+"en": "the symbol after ★",
+"zh": "★ 后面的符号",
+"ja": "★ の次の記号",
+"ru": "символ после ★",
+"uz": "★ dan keyingi belgi",
+"vi": "ký hiệu sau ★"
+}
+}
