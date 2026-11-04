@@ -29,7 +29,7 @@ needs: docs/I18N_spec.md, langpack/ (v1.3) — 이 저장소(ahnboat_lab_langpac
 1. **원문은 한국어 원본**이다. 다른 번역판을 다시 옮기지 않는다(중역 금지). 다른 번역판은 같은 문자열을 어떻게 처리했는지 참고만 한다.
 2. **기존 번역판은 본문을 한 글자도 바꾸지 않는다.** 바뀌는 것은 언어 메뉴, 🌐 배너, 전환 스크립트의 언어 목록, `hreflang` 네 곳뿐이다(1부 4장 표).
 3. 바꾸는 방법은 **문자열 치환 또는 같은 번역으로 다시 빌드** 둘 중 하나. 손으로 고치지 않는다. 끝나면 원래 파일과 diff해서 네 곳 밖 차이가 0인지 확인한다.
-4. 캐릭터·저자 이름은 언어팩 `00_series.json`을 따른다. **Money-Robo는 모든 언어에서 그대로** 쓴다(ahnboat_lab_explainer 캐릭터 팩 C1).
+4. 캐릭터·저자 이름은 언어팩 `00_series.json`을 따른다. **주판봇은 언어별 표기(en·uz·vi AbaBot · ja アバボット · zh 算盘宝 · ru АбаБот)로** 쓴다(ahnboat_lab_explainer 캐릭터 팩 C1).
 5. 결과는 **원어민 검수 전**이라고 전달 글에 적는다.
 
 ## 0-3. 언어팩 설정에 새 언어 더하기
@@ -58,7 +58,7 @@ needs: docs/I18N_spec.md, langpack/ (v1.3) — 이 저장소(ahnboat_lab_langpac
 
 # 1부 · 실행 예: 베트남어 추가 보완 지시서 (원문)
 
-> v1.0에서 고친 곳: 8장 고정 용어표의 "연구실 로봇"을 Money-Robo로 바꾸고(ahnboat_lab_explainer 캐릭터 팩 C1), 언어팩 `00_series.json`에 있는 조수(하루)·세나 행을 더했다. 나머지는 원문 그대로다.
+> v1.0에서 고친 곳: 8장 고정 용어표의 "연구실 로봇"을 주판봇으로 바꾸고(ahnboat_lab_explainer 캐릭터 팩 C1), 언어팩 `00_series.json`에 있는 조수(하루)·세나 행을 더했다. 나머지는 원문 그대로다.
 
 # 보완 지시서 — 기존 6개 언어판에 베트남어(vi)만 추가
 
@@ -174,7 +174,7 @@ needs: docs/I18N_spec.md, langpack/ (v1.3) — 이 저장소(ahnboat_lab_langpac
 | 조수(하루) | the Assistant (Haru) | Trợ lý (Haru) |
 | 세나 (조수의 예명) | Sena | Sena |
 | 초파리 연구원 | the Fruit Fly Researcher | Nhà nghiên cứu Ruồi giấm |
-| Money-Robo | Money-Robo | Money-Robo |
+| 주판봇 | AbaBot | AbaBot |
 | 연구실 (식구들) | the lab (crew) | phòng thí nghiệm (các thành viên) |
 | 본부 | HQ | Sở chỉ huy |
 | 막대 인형 | stick figure | người que |

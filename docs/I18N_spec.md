@@ -11,7 +11,7 @@ source: ahnboat_lab_explainer packs/lang/LANG_series_build_instructions.md 8장,
 
 이 저장소에서 바꾼 곳:
 - 14-8 고정 용어표의 저자 이름을 모든 언어에서 **Ahn Sangsun**으로(한자·가타카나·키릴 문자로 옮기지 않는다).
-- 캐릭터 표기 박사 · 조수(하루, 예명 세나) · 초파리 연구원 · Money-Robo, 일본어 です・ます체, 우즈베크어 ʼ(U+02BC)는 원문(2026-11-01판)에 이미 반영돼 있다.
+- 캐릭터 표기 박사 · 조수(하루, 예명 세나) · 초파리 연구원 · 주판봇, 일본어 です・ます체, 우즈베크어 ʼ(U+02BC)는 원문(2026-11-01판)에 이미 반영돼 있다.
 
 ## 8. 언어 전환 UI (한국어 원본에도 넣는다)
 
@@ -123,7 +123,7 @@ source: ahnboat_lab_explainer packs/lang/LANG_series_build_instructions.md 8장,
 | 조수(하루) | the Assistant (Haru) | 助手（Haru） | 助手（ハル） | Yordamchi (Haru) | ассистент (Хару) | Trợ lý (Haru) |
 | 세나 (조수의 예명) | Sena | Sena | セナ | Sena | Сена | Sena |
 | 초파리 연구원 | the Fruit Fly Researcher | 果蝇研究员 | ショウジョウバエ研究員 | Meva pashshasi tadqiqotchisi | Исследователь-дрозофила | Nhà nghiên cứu Ruồi giấm |
-| Money-Robo | Money-Robo | Money-Robo | Money-Robo | Money-Robo | Money-Robo | Money-Robo |
+| 주판봇 | AbaBot | 算盘宝 | アバボット | AbaBot | АбаБот | AbaBot |
 | 연구실 (식구들) | the lab (crew) | 研究室（成员） | 研究室（の仲間たち） | laboratoriya (jamoasi) | лаборатория (команда) | phòng thí nghiệm (các thành viên) |
 | 본부 | HQ | 总部 | 本部 | shtab | штаб | Sở chỉ huy |
 | 막대 인형 | stick figure | 火柴人 | 棒人間 | chiziqcha odam | человечек-палочка (стик-фигура) | người que |

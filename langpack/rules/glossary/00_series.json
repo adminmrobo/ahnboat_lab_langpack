@@ -31,6 +31,14 @@
 "uz": "Haru (yordamchi)",
 "vi": "Haru (trợ lý)"
 },
+"주판봇": {
+"en": "AbaBot",
+"zh": "算盘宝",
+"ja": "アバボット",
+"ru": "АбаБот",
+"uz": "AbaBot",
+"vi": "AbaBot"
+},
 "초파리 연구원": {
 "en": "Fruit Fly Researcher",
 "zh": "果蝇研究员",
@@ -271,13 +279,13 @@
 "uz": "Pashsha gʻolib",
 "vi": "Ruồi giấm thắng"
 },
-"Money-Robo 승": {
-"en": "Money-Robo wins",
-"zh": "Money-Robo 胜",
-"ja": "Money-Robo の勝ち",
-"ru": "Победил Money-Robo",
-"uz": "Money-Robo gʻolib",
-"vi": "Money-Robo thắng"
+"주판봇 승": {
+"en": "AbaBot wins",
+"zh": "算盘宝胜",
+"ja": "アバボットの勝ち",
+"ru": "Победил АбаБот",
+"uz": "AbaBot gʻolib",
+"vi": "AbaBot thắng"
 },
 "이번 판은 나눠 갖는다": {
 "en": "This round is a draw",
