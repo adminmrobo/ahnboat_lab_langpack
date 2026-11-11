@@ -1,5 +1,10 @@
 # 변경 기록
 
+## 2026-11-11 · 언어팩 v1.5 — 새 식구 시아·모아
+
+- 용어표 `00_series.json`에 캐릭터 팩 1.4의 새 식구를 더함: `인턴 시아`·`시아`(en Intern Sia / Sia · zh 实习生西娅 / 西娅 · ja インターンのシア / シア · uz Stajyor Sia / Sia · ru Стажёрка Сия / Сия · vi Thực tập sinh Sia / Sia), `인턴 모아`·`모아`(en Intern Moa / Moa · zh 实习生茉雅 / 茉雅 · ja インターンのモア / モア · uz Stajyor Moa / Moa · ru Стажёрка Моа / Моа · vi Thực tập sinh Moa / Moa), 미공개 X1~X3용 `미공개`(en Secret · zh 未公开 · ja 未公開 · uz Sir · ru Секрет · vi Bí mật). 표기는 ahnboat_lab_explainer `packs/lang/langpack` 사본과 같음.
+- 외국어판 규격 14-8 표·언어 추가 작업 문서 고정 용어표에 같은 행을 더하고, 캐릭터 표기 줄(SKILL·README·규격)에 인턴 시아·모아를 넣음.
+
 ## 2026-11-04 · 언어팩 v1.4 — 연구실 로봇 이름 교체
 
 - Money-Robo((주)M-Robo 회사 캐릭터) → **주판봇**. 외국어판 표기 en·uz·vi AbaBot · ja アバボット · zh 算盘宝 · ru АбаБот. "모든 언어에서 그대로" 규칙을 언어별 표기로 바꿈.

@@ -3,7 +3,7 @@
   "author": "안상선 ((주)M-Robo 대표) / Ahn Sangsun",
   "updated": "2026-11-03",
   "skill": {"id": "ahnboat-lab-translate", "path": "SKILL.md", "version": "1.0"},
-  "tools": {"id": "langpack", "path": "langpack/", "version": "1.4", "langs": ["en", "zh", "ja", "uz", "ru", "vi"]},
+  "tools": {"id": "langpack", "path": "langpack/", "version": "1.5", "langs": ["en", "zh", "ja", "uz", "ru", "vi"]},
   "docs": [
     {"id": "i18n-spec", "path": "docs/I18N_spec.md", "version": "1.1", "source": "ahnboat_lab_explainer packs/lang/LANG_series_build_instructions.md 8장, 13~17장"},
     {"id": "langpack-spec", "path": "docs/SPEC_langpack_patch_VER1.0.md", "version": "1.0"}

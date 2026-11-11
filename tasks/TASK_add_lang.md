@@ -175,6 +175,9 @@ needs: docs/I18N_spec.md, langpack/ (v1.3) — 이 저장소(ahnboat_lab_langpac
 | 세나 (조수의 예명) | Sena | Sena |
 | 초파리 연구원 | the Fruit Fly Researcher | Nhà nghiên cứu Ruồi giấm |
 | 주판봇 | AbaBot | AbaBot |
+| 인턴 시아 / 시아 | Intern Sia / Sia | Thực tập sinh Sia / Sia |
+| 인턴 모아 / 모아 | Intern Moa / Moa | Thực tập sinh Moa / Moa |
+| 미공개 (X1~X3) | Secret | Bí mật |
 | 연구실 (식구들) | the lab (crew) | phòng thí nghiệm (các thành viên) |
 | 본부 | HQ | Sở chỉ huy |
 | 막대 인형 | stick figure | người que |

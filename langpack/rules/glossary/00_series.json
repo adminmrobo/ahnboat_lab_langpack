@@ -326,5 +326,45 @@
 "ru": "Сена",
 "uz": "Sena",
 "vi": "Sena"
+},
+"인턴 시아": {
+"en": "Intern Sia",
+"zh": "实习生西娅",
+"ja": "インターンのシア",
+"ru": "Стажёрка Сия",
+"uz": "Stajyor Sia",
+"vi": "Thực tập sinh Sia"
+},
+"인턴 모아": {
+"en": "Intern Moa",
+"zh": "实习生茉雅",
+"ja": "インターンのモア",
+"ru": "Стажёрка Моа",
+"uz": "Stajyor Moa",
+"vi": "Thực tập sinh Moa"
+},
+"시아": {
+"en": "Sia",
+"zh": "西娅",
+"ja": "シア",
+"ru": "Сия",
+"uz": "Sia",
+"vi": "Sia"
+},
+"모아": {
+"en": "Moa",
+"zh": "茉雅",
+"ja": "モア",
+"ru": "Моа",
+"uz": "Moa",
+"vi": "Moa"
+},
+"미공개": {
+"en": "Secret",
+"zh": "未公开",
+"ja": "未公開",
+"ru": "Секрет",
+"uz": "Sir",
+"vi": "Bí mật"
 }
 }
